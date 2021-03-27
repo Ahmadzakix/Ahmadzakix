@@ -31,13 +31,12 @@ Donate Me On:
 
 <a href="https://github.com/Ahmadzakix"><img src="https://github-readme-stats.vercel.app/api?username=Ahmadzakix&show_icons=true&theme=radical"></a>
 
-
+<a href="https://github.com/Ahmadzakix"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadzakix&theme=highcontrast&layout=compact"></a>
 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
-<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=Ahmadzakix&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadzakix&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="Ahmadzakix"/> </p>
 
 <p align="center">
 

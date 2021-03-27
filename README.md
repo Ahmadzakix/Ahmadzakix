@@ -31,7 +31,7 @@ Donate Me On:
 
 <a href="https://github.com/Ahmadzakix"><img src="https://github-readme-stats.vercel.app/api?username=Ahmadzakix&show_icons=true&theme=radical"></a>
 
-<a href="https://github.com/Ahmadzakix"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadzakix&theme=highcontrast&layout=compact"></a>
+
 
 <!--START_SECTION:waka-->
 

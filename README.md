@@ -15,8 +15,11 @@
 </p>
 
 <br>
+---
 Name:Ahmad Zaki
+
 Age:15yo📍
+
 Contact wa.me/6283873394995
 
 ## Donate <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="28" height="28">

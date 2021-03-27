@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hai Gua Zaki <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
+<p align="center">
 
 
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
@@ -8,13 +9,14 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game">
 
 ---
+###its Me
 <a href="https://github.com/Ahmadzakix"><img src="https://github.com/Ahmadzakix/Ahmadzaki/blob/main/IMG_20210311_145621.jpg"></a>
 
 </p>
 
 <br>
-Wanna Hide Me ?
-
+Name:Ahmad Zaki
+Age:15yo📍
 Contact wa.me/6283873394995
 
 ## Donate <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="28" height="28">
